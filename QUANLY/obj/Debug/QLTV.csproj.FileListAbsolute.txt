@@ -1,0 +1,511 @@
+b:\users\mr. tuan\documents\visual studio 2010\Projects\QLTV\QLTV\bin\Debug\QLTV.exe
+b:\users\mr. tuan\documents\visual studio 2010\Projects\QLTV\QLTV\bin\Debug\QLTV.pdb
+b:\users\mr. tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+b:\users\mr. tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.Form1.resources
+b:\users\mr. tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+b:\users\mr. tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+b:\users\mr. tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.exe.licenses
+b:\users\mr. tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.exe
+b:\users\mr. tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.pdb
+b:\users\mr. tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.Use_Control.ttNhanVien.resources
+b:\users\mr. tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.Use_Control.cnNhanVien.resources
+b:\users\mr. tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.Use_Control.ttTheLoai.resources
+B:\Users\Mr. Tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.Use_Control.cnDocGia.resources
+B:\Users\Mr. Tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.Use_Control.About.resources
+B:\Users\Mr. Tuan\documents\visual studio 2010\Projects\QLTV\QLTV\bin\Debug\Interop.ShockwaveFlashObjects.dll
+B:\Users\Mr. Tuan\documents\visual studio 2010\Projects\QLTV\QLTV\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+B:\Users\Mr. Tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\Interop.ShockwaveFlashObjects.dll
+B:\Users\Mr. Tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+B:\Users\Mr. Tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.csproj.ResolveComReference.cache
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.Use_Control.cnTacGia.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.Use_Control.cnTheLoai.resources
+B:\Users\Mr. Tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.Use_Control.cnNXB.resources
+B:\Users\Mr. Tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.Use_Control.ttDocGia.resources
+B:\Users\Mr. Tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.Use_Control.ttNXB.resources
+B:\Users\Mr. Tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.Use_Control.ttSach.resources
+B:\Users\Mr. Tuan\documents\visual studio 2010\Projects\QLTV\QLTV\obj\Debug\QLTV.Use_Control.ttTacGia.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\Interop.ShockwaveFlashObjects.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.csproj.ResolveComReference.cache
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.exe
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.pdb
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\QLTV.exe
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\QLTV.pdb
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\Interop.ShockwaveFlashObjects.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.Use_Control.About.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.Use_Control.cnDocGia.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.Use_Control.cnNhanVien.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.Use_Control.cnNXB.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.Use_Control.cnTacGia.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.Use_Control.cnTheLoai.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.Use_Control.ttDocGia.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.Use_Control.ttNhanVien.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.Use_Control.ttNXB.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.Use_Control.ttSach.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.Use_Control.ttTacGia.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.Use_Control.ttTheLoai.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.exe.licenses
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.Use_Control.cnSach.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\vi-VN\QLTV.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\vi-VN\QLTV.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.Use_Control.MuonSach.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.DangNhap.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.TrangChu.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.TrangChu.vi-VN.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.GUI.cnTraSach.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.GUI.cnMatKhau.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.GUI.ttBanThan.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.GUI.ttLuotMuon.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.GUI.ttMuonQuaHan.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.GUI.ttSachChuaDuocMuon.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.GUI.tkSach.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.GUI.tkDocGia.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.Reports.frmDocGia.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\RdlCompile.cache
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\RdlCompile.compiled
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\QLTV.exe.config
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\obj\Debug\QLTV.Reports.frmTraSach.resources
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\DevExpress.BonusSkins.v11.2.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\DevExpress.Data.v11.2.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\DevExpress.Printing.v11.2.Core.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\DevExpress.Utils.v11.2.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\DevExpress.XtraBars.v11.2.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\DevExpress.XtraEditors.v11.2.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\DevExpress.XtraGrid.v11.2.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\DevExpress.XtraLayout.v11.2.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\DevExpress.XtraNavBar.v11.2.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\DevExpress.Data.v11.2.xml
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\DevExpress.Printing.v11.2.Core.xml
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\DevExpress.Utils.v11.2.xml
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\DevExpress.XtraBars.v11.2.xml
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\DevExpress.XtraEditors.v11.2.xml
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\DevExpress.XtraGrid.v11.2.xml
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\DevExpress.XtraLayout.v11.2.xml
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\DevExpress.XtraNavBar.v11.2.xml
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\de\DevExpress.Data.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\es\DevExpress.Data.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\ja\DevExpress.Data.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\ru\DevExpress.Data.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\de\DevExpress.Utils.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\es\DevExpress.Utils.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\ja\DevExpress.Utils.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\ru\DevExpress.Utils.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\de\DevExpress.XtraBars.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\es\DevExpress.XtraBars.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\ja\DevExpress.XtraBars.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\ru\DevExpress.XtraBars.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\de\DevExpress.XtraEditors.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\es\DevExpress.XtraEditors.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\ja\DevExpress.XtraEditors.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\ru\DevExpress.XtraEditors.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\de\DevExpress.XtraGrid.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\es\DevExpress.XtraGrid.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\ja\DevExpress.XtraGrid.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\ru\DevExpress.XtraGrid.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\de\DevExpress.XtraLayout.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\es\DevExpress.XtraLayout.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\ja\DevExpress.XtraLayout.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\ru\DevExpress.XtraLayout.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\de\DevExpress.XtraNavBar.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\es\DevExpress.XtraNavBar.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\ja\DevExpress.XtraNavBar.v11.2.resources.dll
+B:\Users\Mr. Tuan\Documents\Visual Studio 2010\Projects\QLTV - Copy\QLTV\bin\Debug\ru\DevExpress.XtraNavBar.v11.2.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\QLTV.exe.config
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.csproj.ResolveComReference.cache
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\QLTV.exe
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\QLTV.pdb
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\vi-VN\QLTV.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Data.v16.1.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Utils.v16.1.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraBars.v16.1.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Office.v16.1.Core.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Data.v16.1.xml
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Utils.v16.1.xml
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraBars.v16.1.xml
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Office.v16.1.Core.xml
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.DangNhap.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.GUI.cnMatKhau.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.GUI.cnTraSach.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.GUI.tkDocGia.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.GUI.tkSach.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.GUI.ttBanThan.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.GUI.ttLuotMuon.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.GUI.ttMuonQuaHan.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.GUI.ttSachChuaDuocMuon.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Reports.frmDocGia.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Reports.frmTraSach.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.TrangChu.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.About.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.cnDocGia.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.cnNhanVien.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.cnNXB.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.cnSach.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.cnTacGia.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.cnTheLoai.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.MuonSach.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.ttDocGia.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.ttNhanVien.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.ttNXB.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.ttSach.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.ttTacGia.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.ttTheLoai.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.TrangChu.vi-VN.resources
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.exe.licenses
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\vi-VN\QLTV.resources.dll
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.exe
+E:\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.pdb
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\QLTV.exe
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\QLTV.pdb
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\vi-VN\QLTV.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.csprojAssemblyReference.cache
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.csproj.ResolveComReference.cache
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.DangNhap.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.GUI.cnMatKhau.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.GUI.cnTraSach.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.GUI.tkDocGia.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.GUI.tkSach.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.GUI.ttBanThan.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.GUI.ttLuotMuon.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.GUI.ttMuonQuaHan.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.GUI.ttSachChuaDuocMuon.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Reports.frmDocGia.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Reports.frmTraSach.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.TrangChu.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.About.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.cnDocGia.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.cnNhanVien.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.cnNXB.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.cnSach.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.cnTacGia.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.cnTheLoai.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.MuonSach.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.ttDocGia.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.ttNhanVien.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.ttNXB.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.ttSach.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.ttTacGia.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.Use_Control.ttTheLoai.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.TrangChu.vi-VN.resources
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.exe.licenses
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\vi-VN\QLTV.resources.dll
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.csproj.CopyComplete
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.exe
+C:\Users\Hoang\OneDrive\Môn học\18-19 Học kỳ 1\Đồ án chuyên ngành\Tham Khảo\QUANLYTHUVIEN_3LAYER\QUANLYTHUVIEN_3LAYER\BTL-Lập Trình Windowns-Nhóm 9-KTPM1-K5\QLTV\QLTV\obj\Debug\QLTV.pdb
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\QLTV.exe
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\QLTV.pdb
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\vi-VN\QLTV.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.csprojAssemblyReference.cache
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.csproj.ResolveComReference.cache
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.DangNhap.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.GUI.cnMatKhau.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.GUI.ttBanThan.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.Reports.frmDocGia.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.Reports.frmTraSach.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.TrangChu.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.Use_Control.About.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.Use_Control.cnDocGia.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.Use_Control.cnNhanVien.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.Use_Control.cnNXB.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.Use_Control.cnSach.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.Use_Control.cnTacGia.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.Use_Control.cnTheLoai.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.Use_Control.MuonSach.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.Use_Control.ttDocGia.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.Use_Control.ttNhanVien.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.Use_Control.ttNXB.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.Use_Control.ttSach.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.Use_Control.ttTacGia.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.Use_Control.ttTheLoai.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.TrangChu.vi-VN.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.exe.licenses
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\vi-VN\QLTV.resources.dll
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.csproj.CopyComplete
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.exe
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.pdb
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.GUI.tkKhachHang.resources
+C:\Users\Hoang\Desktop\QUANLY\QLTV\obj\Debug\QLTV.GUI.tkSanPham.resources
