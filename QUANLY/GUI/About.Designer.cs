@@ -1,4 +1,4 @@
-﻿namespace QLTV.Use_Control
+﻿namespace QUANLY.Use_Control
 {
     partial class About
     {
@@ -81,7 +81,7 @@
             // 
             // flash
             // 
-            this.flash.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.flash.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.flash.Enabled = true;
             this.flash.Location = new System.Drawing.Point(2, 29);

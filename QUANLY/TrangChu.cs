@@ -11,11 +11,11 @@ using DevExpress.UserSkins;
 using DevExpress.XtraBars;
 using DevExpress.XtraBars.Ribbon;
 using DevExpress.XtraBars.Helpers;
-using QLTV.BLL;
-using QLTV.DTO;
+using QUANLY.BLL;
+using QUANLY.DTO;
 
 
-namespace QLTV
+namespace QUANLY
 {
     public partial class TrangChu : RibbonForm
     {
@@ -95,6 +95,7 @@ namespace QLTV
         private void Form1_Load(object sender, EventArgs e)
         {
             clsAddTab.AddTab(xtraTabControl1, "", "About", new Use_Control.About());
+            
         }
 
         private void btnttBanThan_ItemClick(object sender, ItemClickEventArgs e)
@@ -345,95 +346,7 @@ namespace QLTV
             }
             siInfo.Caption = "Nhân Viên : " + Utilities.user.MaNV + " || Bạn đang xem tab Phiếu Sử Dụng";
         }
-        /*
-        private void btnPhieuTra_ItemClick(object sender, ItemClickEventArgs e)
-        {
-            int t = 0;
-            foreach (DevExpress.XtraTab.XtraTabPage tab in xtraTabControl1.TabPages)
-            {
-                if (tab.Text == "Phiếu Trả")
-                {
-                    xtraTabControl1.SelectedTabPage = tab;
-                    t = 1;
-                }
-            }
-            if (t == 1)
-            {
-
-            }
-            else
-            {
-                clsAddTab.AddTab(xtraTabControl1, "", "Phiếu Trả", new GUI.cnTraSach());
-            }
-            siInfo.Caption = "Nhân Viên : " + Utilities.user.MaNV + " || Bạn đang xem tab Phiếu Trả";
-        }*/
-        /*
-        private void btnSachChuaDuocMuon_ItemClick(object sender, ItemClickEventArgs e)
-        {
-            int t = 0;
-            foreach (DevExpress.XtraTab.XtraTabPage tab in xtraTabControl1.TabPages)
-            {
-                if (tab.Text == "Sản Phẩm Chưa Được Mượn")
-                {
-                    xtraTabControl1.SelectedTabPage = tab;
-                    t = 1;
-                }
-            }
-            if (t == 1)
-            {
-
-            }
-            else
-            {
-                clsAddTab.AddTab(xtraTabControl1, "", "Sản Phẩm Chưa Được Mượn", new GUI.ttSachChuaDuocMuon());
-            }
-            siInfo.Caption = "Nhân Viên : " + Utilities.user.MaNV + " || Bạn đang xem tab Sản Phẩm Chưa Được Mượn";
-        }*/
-        /*
-        private void btnPhieuNopPhat_ItemClick(object sender, ItemClickEventArgs e)
-        {
-            int t = 0;
-            foreach (DevExpress.XtraTab.XtraTabPage tab in xtraTabControl1.TabPages)
-            {
-                if (tab.Text == "Lượt Mượn")
-                {
-                    xtraTabControl1.SelectedTabPage = tab;
-                    t = 1;
-                }
-            }
-            if (t == 1)
-            {
-
-            }
-            else
-            {
-                clsAddTab.AddTab(xtraTabControl1, "", "Lượt Mượn", new GUI.ttLuotMuon());
-            }
-            siInfo.Caption = "Nhân Viên : " + Utilities.user.MaNV + " || Bạn đang xem tab Lượt Mượn";
-        }*/
-        /*
-        private void btnQH_ItemClick(object sender, ItemClickEventArgs e)
-        {
-            int t = 0;
-            foreach (DevExpress.XtraTab.XtraTabPage tab in xtraTabControl1.TabPages)
-            {
-                if (tab.Text == "Mượn Quá Hạn")
-                {
-                    xtraTabControl1.SelectedTabPage = tab;
-                    t = 1;
-                }
-            }
-            if (t == 1)
-            {
-
-            }
-            else
-            {
-                clsAddTab.AddTab(xtraTabControl1, "", "Mượn Quá Hạn", new GUI.ttMuonQuaHan());
-            }
-            siInfo.Caption = "Nhân Viên : " + Utilities.user.MaNV + " || Bạn đang xem tab Mượn Quá Hạn";
-        }
-        */
+        
         private void btnttSach_ItemClick(object sender, ItemClickEventArgs e)
         {
             int t = 0;
@@ -656,6 +569,30 @@ namespace QLTV
                 AnMenu(true, Utilities.user.QuyenHan);
             }
 
+        }
+
+        private void btnReportForKH_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            int t = 0;
+            foreach (DevExpress.XtraTab.XtraTabPage tab in xtraTabControl1.TabPages)
+            {
+                if (tab.Text == "Phiếu Sử Dụng")
+                {
+                    xtraTabControl1.SelectedTabPage = tab;
+                    t = 1;
+                }
+            }
+            if (t == 1)
+            {
+
+            }
+            else
+            {
+                clsAddTab.AddTab(xtraTabControl1, "", "Phiếu Sử Dụng", new Use_Control.PhieuSDDVSP());
+            }
+            siInfo.Caption = "Nhân Viên : " + Utilities.user.MaNV + " || Bạn đang xem tab Phiếu Sử Dụng";
+            
+            
         }
     }
 }

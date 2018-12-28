@@ -1,4 +1,4 @@
-﻿namespace QLTV.Use_Control
+﻿namespace QUANLY.Use_Control
 {
     partial class PhieuSDDVSP
     {
@@ -102,7 +102,7 @@
             // 
             // panelControl1
             // 
-            this.panelControl1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.panelControl1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
             | System.Windows.Forms.AnchorStyles.Left)));
             this.panelControl1.Controls.Add(this.dgvPhieuSDDVSP);
             this.panelControl1.Location = new System.Drawing.Point(0, 1);
@@ -112,8 +112,8 @@
             // 
             // dgvPhieuSDDVSP
             // 
-            this.dgvPhieuSDDVSP.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.dgvPhieuSDDVSP.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvPhieuSDDVSP.Location = new System.Drawing.Point(3, 195);
             this.dgvPhieuSDDVSP.MainView = this.gridView1;
@@ -167,8 +167,8 @@
             // 
             // panelControl2
             // 
-            this.panelControl2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.panelControl2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panelControl2.Controls.Add(this.dgvCTPhieuSDDVSP);
             this.panelControl2.Controls.Add(this.groupControl4);
@@ -180,7 +180,7 @@
             // 
             // dgvCTPhieuSDDVSP
             // 
-            this.dgvCTPhieuSDDVSP.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.dgvCTPhieuSDDVSP.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
             | System.Windows.Forms.AnchorStyles.Left)));
             this.dgvCTPhieuSDDVSP.Location = new System.Drawing.Point(3, 195);
             this.dgvCTPhieuSDDVSP.MainView = this.gridView2;
@@ -225,7 +225,7 @@
             // 
             // groupControl4
             // 
-            this.groupControl4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.groupControl4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.groupControl4.Controls.Add(this.cboSach);
             this.groupControl4.Controls.Add(this.cboMaPhieu);
@@ -479,7 +479,7 @@
             // 
             // nhanVienDTOBindingSource
             // 
-            this.nhanVienDTOBindingSource.DataSource = typeof(QLTV.DTO.NhanVien_DTO);
+            this.nhanVienDTOBindingSource.DataSource = typeof(QUANLY.DTO.NhanVien_DTO);
             // 
             // dateEdit1
             // 

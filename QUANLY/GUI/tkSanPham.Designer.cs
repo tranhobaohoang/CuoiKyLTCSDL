@@ -1,4 +1,4 @@
-﻿namespace QLTV.GUI
+﻿namespace QUANLY.GUI
 {
     partial class tkSanPham
     {
@@ -68,7 +68,7 @@
             // 
             // groupControl1
             // 
-            this.groupControl1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.groupControl1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.groupControl1.Controls.Add(this.btnHienThi);
             this.groupControl1.Controls.Add(this.cboTheLoai);
@@ -244,8 +244,8 @@
             // 
             // dgvDanhSachSP
             // 
-            this.dgvDanhSachSP.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.dgvDanhSachSP.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvDanhSachSP.Location = new System.Drawing.Point(0, 185);
             this.dgvDanhSachSP.MainView = this.gridView1;

@@ -5,11 +5,11 @@ using System.Text;
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
-using QLTV.DAL;
-using QLTV.DTO;
+using QUANLY.DAL;
+using QUANLY.DTO;
 
 
-namespace QLTV.BLL
+namespace QUANLY.BLL
 {
     class CTPhieuSDDVSP_BLL
     {

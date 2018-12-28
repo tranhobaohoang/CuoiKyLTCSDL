@@ -5,14 +5,19 @@ using System.Text;
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
-using QLTV.DAL;
-using QLTV.DTO;
+using QUANLY.DAL;
+using QUANLY.DTO;
 
-namespace QLTV.BLL
+namespace QUANLY.BLL
 {
-    class KhachHang_BLL
+    public class KhachHang_BLL
     {
         ConnectDB connData = new ConnectDB();
+        private static KhachHang_BLL instance;
+
+        public static KhachHang_BLL Instance { get { if (instance == null) instance = new KhachHang_BLL(); return instance; } private set => instance = value; }
+
+        public KhachHang_BLL() { }
 
         //Hàm lấy tất cả danh sách Khách hàng để hiển thị
         public DataTable LayDanhSachKhachHang()

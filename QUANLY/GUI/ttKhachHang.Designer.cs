@@ -1,4 +1,4 @@
-﻿namespace QLTV.Use_Control
+﻿namespace QUANLY.Use_Control
 {
     partial class ttDocGia
     {

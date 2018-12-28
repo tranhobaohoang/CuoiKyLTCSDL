@@ -6,9 +6,9 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-using QLTV.BLL;
+using QUANLY.BLL;
 
-namespace QLTV.GUI
+namespace QUANLY.GUI
 {
     public partial class cnMatKhau : UserControl
     {

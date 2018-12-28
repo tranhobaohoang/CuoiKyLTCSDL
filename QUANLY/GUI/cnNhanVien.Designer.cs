@@ -1,4 +1,4 @@
-﻿namespace QLTV.Use_Control
+﻿namespace QUANLY.Use_Control
 {
     partial class cnNhanVien
     {
@@ -95,7 +95,7 @@
             // 
             // groupControl1
             // 
-            this.groupControl1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.groupControl1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.groupControl1.Controls.Add(this.btnHuy);
             this.groupControl1.Controls.Add(this.btnLuuLai);
@@ -398,8 +398,8 @@
             // 
             // dgvNhanVien
             // 
-            this.dgvNhanVien.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.dgvNhanVien.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvNhanVien.Location = new System.Drawing.Point(0, 203);
             this.dgvNhanVien.MainView = this.gridView1;

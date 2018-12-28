@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using QLTV.BLL;
-using QLTV.DTO;
+using QUANLY.BLL;
+using QUANLY.DTO;
 
-namespace QLTV
+namespace QUANLY
 {
     class Utilities
     {

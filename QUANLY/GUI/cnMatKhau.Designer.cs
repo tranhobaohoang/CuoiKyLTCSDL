@@ -1,4 +1,4 @@
-﻿namespace QLTV.GUI
+﻿namespace QUANLY.GUI
 {
     partial class cnMatKhau
     {

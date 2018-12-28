@@ -163,7 +163,7 @@
     <value>165</value>
   </data>
   <data name="navBarControl.Size" type="System.Drawing.Size, System.Drawing">
-    <value>165, 478</value>
+    <value>165, 479</value>
   </data>
   <data name="navBarControl.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -200,7 +200,7 @@
     <value>0, 0</value>
   </data>
   <data name="xtraTabControl1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>872, 478</value>
+    <value>874, 479</value>
   </data>
   <data name="xtraTabControl1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -221,7 +221,7 @@
     <value>Panel2</value>
   </data>
   <data name="splitContainerControl.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1053, 490</value>
+    <value>1055, 491</value>
   </data>
   <data name="splitContainerControl.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -430,6 +430,9 @@
   <data name="btnDangNhap.Caption" xml:space="preserve">
     <value>Đăng Nhập</value>
   </data>
+  <data name="btnReportForKH.Caption" xml:space="preserve">
+    <value>RP KH</value>
+  </data>
   <data name="ribbonControl.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 0</value>
   </data>
@@ -448,6 +451,9 @@
   <data name="ribbonPage3.Text" xml:space="preserve">
     <value>Tìm Kiếm</value>
   </data>
+  <data name="ribbonPageGroup4.Text" xml:space="preserve">
+    <value>ribbonPageGroup4</value>
+  </data>
   <data name="ribbonPage5.Text" xml:space="preserve">
     <value>Reports</value>
   </data>
@@ -455,13 +461,13 @@
     <value>About</value>
   </data>
   <data name="ribbonControl.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1053, 147</value>
+    <value>1055, 147</value>
   </data>
   <data name="ribbonStatusBar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 637</value>
+    <value>0, 638</value>
   </data>
   <data name="ribbonStatusBar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1053, 23</value>
+    <value>1055, 23</value>
   </data>
   <data name="&gt;&gt;ribbonStatusBar.Name" xml:space="preserve">
     <value>ribbonStatusBar</value>
@@ -638,7 +644,7 @@
     <value>6, 13</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>1053, 660</value>
+    <value>1055, 661</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -1125,6 +1131,12 @@
   <data name="&gt;&gt;ribbonPage5.Type" xml:space="preserve">
     <value>DevExpress.XtraBars.Ribbon.RibbonPage, DevExpress.XtraBars.v18.1, Version=18.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
+  <data name="&gt;&gt;ribbonPageGroup4.Name" xml:space="preserve">
+    <value>ribbonPageGroup4</value>
+  </data>
+  <data name="&gt;&gt;ribbonPageGroup4.Type" xml:space="preserve">
+    <value>DevExpress.XtraBars.Ribbon.RibbonPageGroup, DevExpress.XtraBars.v18.1, Version=18.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
   <data name="&gt;&gt;ribbonPage4.Name" xml:space="preserve">
     <value>ribbonPage4</value>
   </data>
@@ -1142,6 +1154,12 @@
   </data>
   <data name="&gt;&gt;defaultLookAndFeel1.Type" xml:space="preserve">
     <value>DevExpress.LookAndFeel.DefaultLookAndFeel, DevExpress.Utils.v18.1, Version=18.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;btnReportForKH.Name" xml:space="preserve">
+    <value>btnReportForKH</value>
+  </data>
+  <data name="&gt;&gt;btnReportForKH.Type" xml:space="preserve">
+    <value>DevExpress.XtraBars.BarButtonItem, DevExpress.XtraBars.v18.1, Version=18.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>TrangChu</value>

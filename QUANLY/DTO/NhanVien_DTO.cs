@@ -5,7 +5,7 @@ using System.Text;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace QLTV.DTO
+namespace QUANLY.DTO
 {
     class NhanVien_DTO
     {

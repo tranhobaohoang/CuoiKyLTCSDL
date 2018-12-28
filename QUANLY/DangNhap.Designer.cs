@@ -1,4 +1,4 @@
-﻿namespace QLTV
+﻿namespace QUANLY
 {
     partial class DangNhap
     {

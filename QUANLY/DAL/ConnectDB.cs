@@ -6,9 +6,9 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
 
-namespace QLTV.DAL
+namespace QUANLY.DAL
 {
-    class ConnectDB
+    public class ConnectDB
     {
         private SqlConnection conn;
         private SqlDataAdapter da;

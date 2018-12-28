@@ -1,4 +1,4 @@
-﻿namespace QLTV
+﻿namespace QUANLY
 {
     partial class TrangChu
     {
@@ -98,6 +98,7 @@
             this.ribbonPageGroup7 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonPageGroup8 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonPage5 = new DevExpress.XtraBars.Ribbon.RibbonPage();
+            this.ribbonPageGroup4 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonPage4 = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.ribbonPageGroup11 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonStatusBar = new DevExpress.XtraBars.Ribbon.RibbonStatusBar();
@@ -107,6 +108,7 @@
             this.someLabelControl2 = new DevExpress.XtraEditors.LabelControl();
             this.someLabelControl1 = new DevExpress.XtraEditors.LabelControl();
             this.defaultLookAndFeel1 = new DevExpress.LookAndFeel.DefaultLookAndFeel(this.components);
+            this.btnReportForKH = new DevExpress.XtraBars.BarButtonItem();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl)).BeginInit();
             this.splitContainerControl.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.navBarControl)).BeginInit();
@@ -250,8 +252,9 @@
             this.btnAbout,
             this.barButtonItem1,
             this.btnDangNhap,
-            this.btnSanPhamChuaDuocMuon});
-            this.ribbonControl.MaxItemId = 98;
+            this.btnSanPhamChuaDuocMuon,
+            this.btnReportForKH});
+            this.ribbonControl.MaxItemId = 99;
             this.ribbonControl.Name = "ribbonControl";
             this.ribbonControl.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
             this.homeRibbonPage,
@@ -686,8 +689,16 @@
             // 
             // ribbonPage5
             // 
+            this.ribbonPage5.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
+            this.ribbonPageGroup4});
             this.ribbonPage5.Name = "ribbonPage5";
             resources.ApplyResources(this.ribbonPage5, "ribbonPage5");
+            // 
+            // ribbonPageGroup4
+            // 
+            this.ribbonPageGroup4.ItemLinks.Add(this.btnReportForKH);
+            this.ribbonPageGroup4.Name = "ribbonPageGroup4";
+            resources.ApplyResources(this.ribbonPageGroup4, "ribbonPageGroup4");
             // 
             // ribbonPage4
             // 
@@ -751,6 +762,13 @@
             // defaultLookAndFeel1
             // 
             this.defaultLookAndFeel1.LookAndFeel.SkinName = "Xmas 2008 Blue";
+            // 
+            // btnReportForKH
+            // 
+            resources.ApplyResources(this.btnReportForKH, "btnReportForKH");
+            this.btnReportForKH.Id = 98;
+            this.btnReportForKH.Name = "btnReportForKH";
+            this.btnReportForKH.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.btnReportForKH_ItemClick);
             // 
             // TrangChu
             // 
@@ -862,6 +880,7 @@
         private DevExpress.XtraBars.BarButtonItem btnDangNhap;
         public DevExpress.XtraBars.BarStaticItem siInfo;
         private DevExpress.XtraBars.BarButtonItem btnSanPhamChuaDuocMuon;
-
+        private DevExpress.XtraBars.Ribbon.RibbonPageGroup ribbonPageGroup4;
+        private DevExpress.XtraBars.BarButtonItem btnReportForKH;
     }
 }

@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace QLTV.Use_Control
+namespace QUANLY.Use_Control
 {
     public partial class About : UserControl
     {

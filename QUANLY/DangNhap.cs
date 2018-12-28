@@ -6,10 +6,10 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 using DevExpress.XtraEditors;
-using QLTV.DTO;
-using QLTV.BLL;
+using QUANLY.DTO;
+using QUANLY.BLL;
 
-namespace QLTV
+namespace QUANLY
 {
     public partial class DangNhap : DevExpress.XtraEditors.XtraForm
     {

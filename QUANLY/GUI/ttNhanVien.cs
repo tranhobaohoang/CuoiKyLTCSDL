@@ -6,11 +6,11 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-using QLTV.BLL;
-using QLTV.DTO;
+using QUANLY.BLL;
+using QUANLY.DTO;
 
 
-namespace QLTV.Use_Control
+namespace QUANLY.Use_Control
 {
     public partial class ttNhanVien : UserControl
     {

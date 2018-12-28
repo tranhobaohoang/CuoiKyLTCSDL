@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Windows.Forms;
 using DevExpress.LookAndFeel;
 
-namespace QLTV
+namespace QUANLY
 {
     static class Program
     {
